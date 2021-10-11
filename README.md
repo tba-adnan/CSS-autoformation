@@ -1,5 +1,6 @@
 # CSS : 
-```html
+
+```css
 #image1 {
 
     width: 200px;
