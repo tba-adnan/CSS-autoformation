@@ -163,3 +163,9 @@ ol {
 }
 ```
 </details>
+
+<details>
+    <summary> HTML : Symentic des Balises </summary>
+    
+    
+</details>
