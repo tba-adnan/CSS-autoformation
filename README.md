@@ -2,7 +2,7 @@
 
 
 <details>
-    <summary> CSS Prototypes.</summary>
+    <summary> CSS </summary>
 ***CSS Selectors*** : 
 
 - Universal Selector : 
