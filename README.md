@@ -1,5 +1,8 @@
-# CSS : 
+# Prototypes : 
 
+
+<details>
+    <summary> **CSS** : </summary>
 ***CSS Selectors*** : 
 
 - Universal Selector : 
@@ -159,3 +162,4 @@ ol {
     list-style-type: upper-roman;
 }
 ```
+</summary>
