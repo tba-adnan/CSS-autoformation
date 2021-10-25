@@ -4,7 +4,7 @@
 <details>
     <summary> CSS </summary>
     
-CSS Selectors :
+- CSS Selectors :
     
 - Universal Selector : 
 ```css
@@ -166,6 +166,7 @@ ol {
 </details>
 
 <details>
+    
     <summary> HTML : Symentic des Balises </summary>
     
     
