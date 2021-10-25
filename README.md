@@ -4,8 +4,8 @@
 <details>
     <summary> CSS </summary>
     
-- CSS Selectors :
     
+
 - Universal Selector : 
 ```css
 * {
